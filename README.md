@@ -1,8 +1,8 @@
-# Ludum Dare 44 : Start with nothing
+# Ludum Dare 45 : Start with nothing
 
 [Hello there !](https://www.youtube.com/watch?v=rEq1Z0bjdwc&t=8) Please take a seat and freak out in front of this repository. The spaghetti code is strong with this one.
 
-Made for Ludum Dare 44 in 72h.
+Made for Ludum Dare 45 in 72h.
 
 ## Terra Icognita : Dusk of Primitive Technology
 
